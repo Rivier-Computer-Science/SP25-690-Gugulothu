@@ -1,0 +1,15 @@
+project:
+  name: sentiment-analysis
+
+training:
+  batch_size: 32
+  epochs: 3
+  learning_rate: 0.001
+
+lstm:
+  embedding_dim: 128
+  hidden_dim: 128
+  dropout: 0.5
+
+bert:
+  model_name: bert-base-uncased
