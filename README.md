@@ -123,7 +123,6 @@ Common challenges observed:
 
 * Fixed dataset splits
 * Clear training scripts provided
-* Dependencies listed in `requirements.txt`
 * End-to-end pipeline included
 
 ---
