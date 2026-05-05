@@ -63,6 +63,12 @@ To evaluate and compare the performance of traditional sequence models (LSTM) wi
 SP25-690-Gugulothu/
 │── Sentiment_Analysis_Project.ipynb
 │── README.md
+│── DATA.md
+│── config.yaml
+│── environment.yml
+│── requirements.txt
+
+
 ```
 ---
 
