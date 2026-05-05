@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+datasets
+transformers
+scikit-learn
+matplotlib
+numpy
+pandas
+tqdm
